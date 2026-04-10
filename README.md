@@ -19,3 +19,6 @@ Rebuild on Windows with Git Bash:
 ```bash
 cat parts/linux_sdk.zip.part-* > "01、linux_sdk.zip"
 ```
+
+md5sum 01、linux_sdk.zip
+21248358e70fb3b67fe9fb1dce4c6348  01、linux_sdk.zip
